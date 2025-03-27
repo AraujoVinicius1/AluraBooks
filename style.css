@@ -12,6 +12,9 @@
     --azul: #002F52;
     --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     --font-family: "Poppins";
+    --font-logo: "Josefin Sans";
+    --black: #000000;
+    --gray: #858585;
 }
 
 body {
